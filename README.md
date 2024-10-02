@@ -10,6 +10,8 @@ This GitHub repository appears to be a login project that includes a backend par
 <br>
  -------In progress-------
 ### Frontend
+<br>
 ### License
+
 No license information is provided.
 
