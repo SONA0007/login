@@ -7,10 +7,9 @@ This GitHub repository appears to be a login project that includes a backend par
 
 ### Technology Stack
 - Java
-<br>
- -------In progress-------<br>
-### Frontend
-<br>
+ 
+### Frontend(in Progress)
+
 License
 
 No license information is provided.
