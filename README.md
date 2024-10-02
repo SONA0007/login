@@ -8,7 +8,7 @@ This GitHub repository appears to be a login project that includes a backend par
 ### Technology Stack
 - Java
 <br>
- -------In progress-------
+ -------In progress-------<br>
 ### Frontend
 <br>
 ### License
