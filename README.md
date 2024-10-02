@@ -11,7 +11,7 @@ This GitHub repository appears to be a login project that includes a backend par
  -------In progress-------<br>
 ### Frontend
 <br>
-### License
+License
 
 No license information is provided.
 
